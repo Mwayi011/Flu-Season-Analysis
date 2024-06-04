@@ -1,4 +1,4 @@
-# Flu-Season-Analysis
+# Flu-Season-Analysis (https://public.tableau.com/app/profile/mwayi.sosola/viz/InfluenzaAnalysis_17175396196530/Story1?publish=yes)
 
 A medical staffing agency within the United States of America need additional medical staff to adequately treat patients during the flu season.
 
